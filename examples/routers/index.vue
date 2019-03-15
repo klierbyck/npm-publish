@@ -1,6 +1,7 @@
 <template>
     <div>
         <Button></Button>
+        <Icon type="add"></Icon>
     </div>
 </template>
 <script>
